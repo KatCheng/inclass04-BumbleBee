@@ -2,5 +2,11 @@ Sweet is good.
 Honey is sweet.
 Thus, Honey is good.
 
+
+Winnie the Pooh is cute.
+Winnie the Pooh likes honey.
+Thus, we like honey.
+
+
 Please add more praises to Honey.
 :)
